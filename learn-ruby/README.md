@@ -1,2 +1,3 @@
-#README
-#testfirst.org test driven development exercises
+Learn Ruby
+==
+Test Driven Development excercises from testfirst.org
