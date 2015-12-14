@@ -1,0 +1,48 @@
+html {
+  background-image: url(dark_embroidery.png);
+  background-repeat:repeat;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 50px; 
+  color: #F5F9FA;
+  font-family: Didot, serif;
+}
+
+#container {
+  width: 600px; height: 800px;
+  margin: 50px auto auto auto;
+}
+
+#header {
+  width: 500px; height: 100px;
+  background-image: url(logo.png);
+  padding-bottom: 8px;
+  padding-right: 11px;
+  margin: 0 auto 50px auto;
+  background-color: #874843;
+  float:middle;
+  font-size: 150%;
+  line-height: 80px;
+  border-radius: 10px;
+}
+
+#tabs_container {
+  width: 100%; height: 50px;
+  margin: 0 auto;
+  background-color: #37527D; 
+  box-shadow: 2px 2px 3px #303030;
+  position: relative;
+  border-radius: 5px;
+}
+
+.tab {
+  width:20%; height: 50px;
+  float:left;
+}
+
+#main {
+  width: 98%; height: 50%;
+  margin: 0 auto;
+  background-color: #dbe7ea;
+  color:#212728;
+}
